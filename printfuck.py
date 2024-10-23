@@ -1,1 +1,1 @@
-print("hueputalo")
+print("huyatina")
