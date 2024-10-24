@@ -1,1 +1,1 @@
-print("skakun")
+print("skakn")
