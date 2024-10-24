@@ -1,1 +1,1 @@
-print("suka")
+print("ska")
