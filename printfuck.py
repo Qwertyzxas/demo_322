@@ -1,1 +1,1 @@
-print("Zalupa")
+print("suka")
