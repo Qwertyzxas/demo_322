@@ -1,1 +1,1 @@
-print("ska")
+print("skakun")
